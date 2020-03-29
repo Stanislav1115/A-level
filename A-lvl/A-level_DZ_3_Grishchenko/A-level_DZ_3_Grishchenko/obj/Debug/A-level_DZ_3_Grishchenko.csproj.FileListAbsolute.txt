@@ -1,0 +1,11 @@
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\A-level_DZ_3_Grishchenko.exe.config
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\A-level_DZ_3_Grishchenko.exe
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\A-level_DZ_3_Grishchenko.pdb
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\FizzBuzzDLL.dll
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\FizzBuzzDLL.pdb
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\obj\Debug\A-level_DZ_3_Grishchenko.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\obj\Debug\A-level_DZ_3_Grishchenko.csproj.CopyComplete
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\obj\Debug\A-level_DZ_3_Grishchenko.exe
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\obj\Debug\A-level_DZ_3_Grishchenko.pdb
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\SportDLL.dll
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\A-level_DZ_3_Grishchenko\bin\Debug\SportDLL.pdb

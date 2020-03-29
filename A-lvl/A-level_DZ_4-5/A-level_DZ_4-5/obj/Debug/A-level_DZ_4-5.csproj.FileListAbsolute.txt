@@ -1,0 +1,9 @@
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\bin\Debug\A-level_DZ_4-5.exe.config
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\bin\Debug\A-level_DZ_4-5.exe
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\bin\Debug\A-level_DZ_4-5.pdb
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\obj\Debug\A-level_DZ_4-5.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\obj\Debug\A-level_DZ_4-5.exe
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\obj\Debug\A-level_DZ_4-5.pdb
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\bin\Debug\Collect.dll
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\bin\Debug\Collect.pdb
+C:\Users\stasi\source\repos\A-level_DZ_4-5\A-level_DZ_4-5\obj\Debug\A-level_DZ_4-5.csproj.CopyComplete

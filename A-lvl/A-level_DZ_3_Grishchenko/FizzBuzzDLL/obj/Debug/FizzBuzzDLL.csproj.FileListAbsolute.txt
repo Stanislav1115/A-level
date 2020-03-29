@@ -1,0 +1,5 @@
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\FizzBuzzDLL\bin\Debug\FizzBuzzDLL.dll
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\FizzBuzzDLL\bin\Debug\FizzBuzzDLL.pdb
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\FizzBuzzDLL\obj\Debug\FizzBuzzDLL.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\FizzBuzzDLL\obj\Debug\FizzBuzzDLL.dll
+C:\Users\stasi\source\repos\A-level_DZ_3_Grishchenko\FizzBuzzDLL\obj\Debug\FizzBuzzDLL.pdb
