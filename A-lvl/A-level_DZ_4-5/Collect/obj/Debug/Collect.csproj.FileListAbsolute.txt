@@ -1,5 +1,0 @@
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Collect\bin\Debug\Collect.dll
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Collect\bin\Debug\Collect.pdb
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Collect\obj\Debug\Collect.csprojAssemblyReference.cache
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Collect\obj\Debug\Collect.dll
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Collect\obj\Debug\Collect.pdb

@@ -1,6 +1,0 @@
-C:\Users\stasi\source\repos\A-level_DZ_1_Hryshchenko_Dll\A-level_DZ_1_Hryshchenko_Dll\bin\Debug\A-level_DZ_1_Hryshchenko_Dll.dll
-C:\Users\stasi\source\repos\A-level_DZ_1_Hryshchenko_Dll\A-level_DZ_1_Hryshchenko_Dll\bin\Debug\A-level_DZ_1_Hryshchenko_Dll.pdb
-C:\Users\stasi\source\repos\A-level_DZ_1_Hryshchenko_Dll\A-level_DZ_1_Hryshchenko_Dll\obj\Debug\A-level_DZ_1_Hryshchenko_Dll.csprojAssemblyReference.cache
-C:\Users\stasi\source\repos\A-level_DZ_1_Hryshchenko_Dll\A-level_DZ_1_Hryshchenko_Dll\obj\Debug\A-level_DZ_1_Hryshchenko_Dll.csproj.CoreCompileInputs.cache
-C:\Users\stasi\source\repos\A-level_DZ_1_Hryshchenko_Dll\A-level_DZ_1_Hryshchenko_Dll\obj\Debug\A-level_DZ_1_Hryshchenko_Dll.dll
-C:\Users\stasi\source\repos\A-level_DZ_1_Hryshchenko_Dll\A-level_DZ_1_Hryshchenko_Dll\obj\Debug\A-level_DZ_1_Hryshchenko_Dll.pdb

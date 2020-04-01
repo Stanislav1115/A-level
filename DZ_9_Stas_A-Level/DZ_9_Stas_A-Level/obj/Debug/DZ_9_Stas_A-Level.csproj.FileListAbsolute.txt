@@ -1,0 +1,6 @@
+C:\Users\stasi\source\repos\DZ_9_Stas_A-Level\DZ_9_Stas_A-Level\bin\Debug\DZ_9_Stas_A-Level.exe.config
+C:\Users\stasi\source\repos\DZ_9_Stas_A-Level\DZ_9_Stas_A-Level\bin\Debug\DZ_9_Stas_A-Level.exe
+C:\Users\stasi\source\repos\DZ_9_Stas_A-Level\DZ_9_Stas_A-Level\bin\Debug\DZ_9_Stas_A-Level.pdb
+C:\Users\stasi\source\repos\DZ_9_Stas_A-Level\DZ_9_Stas_A-Level\obj\Debug\DZ_9_Stas_A-Level.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\DZ_9_Stas_A-Level\DZ_9_Stas_A-Level\obj\Debug\DZ_9_Stas_A-Level.exe
+C:\Users\stasi\source\repos\DZ_9_Stas_A-Level\DZ_9_Stas_A-Level\obj\Debug\DZ_9_Stas_A-Level.pdb

@@ -1,0 +1,6 @@
+C:\Users\stasi\source\repos\DZ_11_Grishchenko\DZ_11_Grishchenko\obj\Debug\DZ_11_Grishchenko.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\DZ_11_Grishchenko\DZ_11_Grishchenko\bin\Debug\DZ_11_Grishchenko.exe.config
+C:\Users\stasi\source\repos\DZ_11_Grishchenko\DZ_11_Grishchenko\bin\Debug\DZ_11_Grishchenko.exe
+C:\Users\stasi\source\repos\DZ_11_Grishchenko\DZ_11_Grishchenko\bin\Debug\DZ_11_Grishchenko.pdb
+C:\Users\stasi\source\repos\DZ_11_Grishchenko\DZ_11_Grishchenko\obj\Debug\DZ_11_Grishchenko.exe
+C:\Users\stasi\source\repos\DZ_11_Grishchenko\DZ_11_Grishchenko\obj\Debug\DZ_11_Grishchenko.pdb

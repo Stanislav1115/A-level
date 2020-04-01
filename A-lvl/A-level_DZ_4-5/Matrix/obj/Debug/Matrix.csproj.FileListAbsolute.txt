@@ -1,5 +1,0 @@
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Matrix\bin\Debug\Matrix.dll
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Matrix\bin\Debug\Matrix.pdb
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Matrix\obj\Debug\Matrix.dll
-C:\Users\stasi\source\repos\A-level_DZ_4-5\Matrix\obj\Debug\Matrix.pdb
